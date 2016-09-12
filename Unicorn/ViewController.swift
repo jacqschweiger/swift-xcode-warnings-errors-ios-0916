@@ -15,15 +15,11 @@ class ViewController: UIViewController {
     }
     
     func unicorn() -> String {
-        
         return "🦄 🦄 🦄 🦄"
-        
     }
     
     func loveAgain(person: String) -> String {
-        
         return person + "♥️"
-        
     }
     
 }
